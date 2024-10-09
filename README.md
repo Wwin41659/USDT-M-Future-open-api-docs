@@ -41,7 +41,7 @@
 
 * Each endpoint has a security type that determines the how you will interact with it.
 * API-keys are passed into the Rest API via the `X-CH-APIKEY` header.
-* API-keys and secret-keys **are case sensitive**.
+* API-keys and secret-keys **are case and sensitive**.
 
 | Security Type                   |   Description                                            |
 | ------------------------------- | -------------------------------------------------------- |
